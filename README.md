@@ -6,8 +6,8 @@ A matching theory-based algorithm for scheduling the data processing application
 # Citation
 Mehran, N., Samani, Z.N., Kimovski, D. and Prodan, R., 2022, September. Matching-based Scheduling of Asynchronous Data Processing Workflows on the Computing Continuum. In 2022 IEEE International Conference on Cluster Computing (CLUSTER) (pp. 58-70). IEEE. [https://doi.org/10.1007/978-3-031-12597-3_15](https://ieeexplore.ieee.org/abstract/document/9912724)
 
-BibTex:
-```
+
+```BibTex
 @INPROCEEDINGS{9912724,  
 author={Mehran, Narges and Najafabadi Samani, Zahra  and Kimovski, Dragi and Prodan, Radu},  
 booktitle={2022 IEEE International Conference on Cluster Computing (CLUSTER)},   
